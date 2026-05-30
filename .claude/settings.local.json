@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s --fail \"https://bootswatch.com/4/simplex/bootstrap.css\" -o \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io/_sass/bootstrap.scss\")"
+    ]
+  }
+}
