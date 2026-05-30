@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(curl -s --fail \"https://bootswatch.com/4/simplex/bootstrap.css\" -o \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io/_sass/bootstrap.scss\")"
+      "Bash(curl -s --fail \"https://bootswatch.com/4/simplex/bootstrap.css\" -o \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io/_sass/bootstrap.scss\")",
+      "Bash(git -C \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io\" status)",
+      "Bash(git -C \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io\" diff --name-only HEAD)",
+      "Bash(git -C \"c:/Users/moses/OneDrive/Documents/GitHub/MosesStewart.github.io\" log --oneline -5)"
     ]
   }
 }
