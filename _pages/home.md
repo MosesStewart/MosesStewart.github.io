@@ -10,21 +10,13 @@ permalink: /
 
 <br>
 
-I am an undergraduate student at Harvard University living in Cambridge, Massachusetts. I currently
-work as a research assistant for [Rahul Singh](https://www.economics.harvard.edu/people/rahul-singh). 
-I will start a PhD in Economics at Harvard University in Fall of 2025.
+I am a second-year graduate student at Harvard University living in Cambridge, Massachusetts. I currently work as a research assistant for [Rahul Singh](https://www.economics.harvard.edu/people/rahul-singh).  I graduated Harvard University in Fall of 2025, with a concentration in Honors Statistics.
 
-As a college student, I am pursuing an BA degree in Honors Statistics with an expected graduation
-date of May 2025. From 2022-2024, I spent two years working closely with
-[Jesse Shapiro](https://scholar.harvard.edu/shapiro/home) and [Isaiah Andrews](https://economics.mit.edu/people/faculty/isaiah-andrews)
-as a research assistent.
+From 2022-2024, I spent two years working closely with [Jesse Shapiro](https://scholar.harvard.edu/shapiro/home) and [Isaiah Andrews](https://economics.mit.edu/people/faculty/isaiah-andrews) as a research assistent.
 
+**Research interests:** My undergraduate research focused on causal inference under misspecified models in Economics. Currently my research is centered around nonparametric causal inference and identification. I hope to continue this theme in the near future.
 
-**Research interests:** My undergraduate research focused on causal inference under misspecified models in Economics. 
-Currently my research is centered around nonparametric causal inference and identification. I hope to continue
-this theme in my graduate studies.
-
-**Contact me:** mosesstewart \[at\] college \[dot\] harvard \[dot\] edu
+**Contact me:** mosesstewart \[at\] g \[dot\] harvard \[dot\] edu
 
 <br/>
 
